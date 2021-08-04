@@ -22,4 +22,5 @@ _(Thanks to [passthroughpo.st](https://passthroughpo.st/new-and-improved-mac-os-
  - Press `Escape` key as soon as the window comes up.
  - In the interface that comes up, select `Device Manager`->`OVMF Platform Configuration`->`Change Preferred` and select the correct resolution.
  - Press `F10` to save the changes.
+ - Restart the VM
  - Press `Escape` multiple times to come back to main menu, and then select `Continue` on it.
